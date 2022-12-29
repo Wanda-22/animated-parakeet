@@ -1,0 +1,19 @@
+.h{
+    width: 80%;
+    font-size: 22px;
+    background-color: darkred;
+}
+body{
+    color: cornflowerblue;
+    background-color:  #A52A2A;
+    font-size: 20px;
+}
+#o,#objn,#acc{
+    color: #000080;
+    font-size: 20px;
+}
+#camera,#result{
+    border: 2px dashed #FFDAB9;
+    width: 350px;
+    height: 300px;
+}
