@@ -4,12 +4,13 @@
     background-color: darkred;
 }
 body{
-    color: cornflowerblue;
+    color: #F5F5DC;
     background-color:  #A52A2A;
-    font-size: 20px;
+    font-size: 22px;
+    font-family: Geneva;
 }
 #o,#objn,#acc{
-    color: #000080;
+    color: #F5F5DC;
     font-size: 20px;
 }
 #camera,#result{
